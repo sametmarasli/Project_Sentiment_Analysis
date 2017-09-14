@@ -1,6 +1,6 @@
 # NLP Project : Sentiment Analysis on IMBD Movie Reviews
 
-<A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Sentiment_Analysis/blob/master/sentiment_analysis.ipynb'>Click here</A><BR> to see the work as a jupyter notebook.
+To see the work as a jupyter notebook <A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Sentiment_Analysis/blob/master/sentiment_analysis.ipynb'>click here</A><BR> 
 
 #### Introduction
 
