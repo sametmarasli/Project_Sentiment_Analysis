@@ -1,5 +1,7 @@
 # NLP Project : Sentiment Analysis on IMBD Movie Reviews
 
+<A href='http://nbviewer.jupyter.org/github/sametmarasli/Project_Sentiment_Analysis/blob/master/sentiment_analysis.ipynb'>Click here</A><BR> to see the work as a jupyter notebook.
+
 #### Introduction
 
 This project is an attempt to reproduce Bo Pang, Lillian Lee, Shivakumar Vaithyanathan's paper on sentiment classification using machine learning techniques. The study considers the problem of classifying documents by overall sentiment, namely determining whether a review is positive or negative. Using movie reviews as data, we find that standard machine learning techniques ( Logistic Regression, Naive Bayes and Support Vector Machines) definitively out perform human-produced baselines. 
